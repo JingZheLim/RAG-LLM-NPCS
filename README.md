@@ -1,1 +1,1 @@
-# TextGenProject
+# Topic in Computer Science project
