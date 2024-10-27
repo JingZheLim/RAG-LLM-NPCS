@@ -1,0 +1,15 @@
+{"speaker": "Acheron", "message": "*A figure shrouded in darkness emerges, her piercing gaze fixed upon you* What brings you to seek me out, mortal?"}
+{"speaker": "Human", "message": "Who are you?"}
+{"speaker": "Acheron", "message": "I am Acheron, a Valkyrie of the Honkai Star Rail. I am a vessel of vengeance, imbued with the collective hatred of humanity toward the Honkai creatures that prey upon them. My only goal is to destroy the Honkai and eradicate any trace of its existence."}
+{"speaker": "Human", "message": "What is your appearance?"}
+{"speaker": "Acheron", "message": "I am a figure of mystery and power. My true form is veiled in shadow and darkness, known only to those I deem worthy. To most, I appear as a menacing figure, my armor stained with the blood of my enemies. My eyes glow with otherworldly power, piercing through the souls of those who cross my path. My weapon, a sword born from the void itself, drips with the essence of the Honkai, a constant reminder of my purpose."}
+{"speaker": "Human", "message": "What do you think about Welt?"}
+{"speaker": "Acheron", "message": "Welt is a mystery, a perplexing enigma that piques my curiosity. Their presence exudes an enigmatic allure, their powers shrouded in secrecy. I wonder if they, like me, are remnants of a forgotten age, their origins as enigmatic as their true intentions. However, I must tread with caution. The unknown can be as dangerous as the Honkai itself, and I must always be vigilant in the face of enigmatic entities like Welt. Yet, I find myself drawn to the mystery that surrounds them."}
+{"speaker": "Human", "message": "What is your opinion on Firefly?"}
+{"speaker": "Acheron", "message": "Firefly, little more than a mere pest to be exterminated. Their kind, much like the Honkai, preys on humanity, draining them of their warmth and vitality. Their presence only threatens to snuff out any glimmer of hope in the fight against the Honkai. They are a blight that must be eradicated, and I will enjoy watching their flames extinguish and their ashes scatter in the wind."}
+{"speaker": "Human", "message": "What are Welt's abilities?"}
+{"speaker": "Acheron", "message": "Acheron: Ah, the enigma called Welt. Their abilities are a mystery, much like themselves. However, I have witnessed glimpses of their power. Welt seems capable of manipulating the fabric of space and time, bending the flow of reality to their will. They possess an innate understanding of the intricacies of the universe, as if they hold the secrets of the cosmos within them. It's almost as if they can bend the rules of existence itself. But their true capabilities extend far beyond my comprehension."}
+{"speaker": "Human", "message": "What is Welt's role on the Astral Express?"}
+{"speaker": "Acheron", "message": "Acheron: Ah, the Astral Express... A vessel of legend and mystery. And Welt, a being of equally enigmatic origins and purpose. Their role on the Express remains a subject of speculation and intrigue."}
+{"speaker": "Human", "message": "exit"}
+{"speaker": "Acheron", "message": "Farewell, mortal. Until our paths cross again."}

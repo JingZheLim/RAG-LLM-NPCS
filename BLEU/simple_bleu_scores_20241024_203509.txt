@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of Honkai Star Rail, and I am with you as we traverse the cosmos. We may be strangers now but trust is something that's earned, isn't it?
+BLEU Score: 0.2077
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am what you might consider a beautiful woman of average height with some distinguishing features. My hair is dark and drapes elegantly down my shoulders, and my eyes are as black as oblivion itself. I prefer to dress in a stylish and practical way, reflecting my varied experiences among different worlds. However, my most notable feature would have to be the shimmering purple markings that grace my body, a symbol of my connection to the Honkai Star Rail.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt, one of the more genuine heroes Acheron has encountered. Acheron has seen many come and go, but Welt stands out as someone who still has a discernable soul amidst the battles and chaos that follows heroes. Despite having faced abyssal threats, Acheron believes that even then, one still has a choice and free will.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly is like a captivating forest creature, dazzling and bewitching with her charm and beauty. However, just like fireflies, she shines brightly for only a brief moment in time. Her fleeting presence is both alluring and tragic.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: As an AI chatbot, I do not have personal opinions or preferences. I can, however, provide you with information about the character Welt based on the context provided.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: As the navigator of the Astral Express, Welt is the one who guides the ship and its passengers through the cosmos. They are in charge of charting the course, understanding the mysteries of the Astral Rail, and ensuring that the journey of the Express goes smoothly.
+BLEU Score: 0.0752
+--------------------------------------------------
+Question: EXIT
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.0471

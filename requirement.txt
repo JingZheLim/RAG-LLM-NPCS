@@ -1,0 +1,14 @@
+cohere
+gradio
+langchain 
+langchain_community 
+langchain_chroma
+chromadb
+langchain-cohere
+langchain-chroma
+SpeechRecognition 
+pyttsx3 
+pygame
+nltk
+scikit-learn
+sentence_transformers

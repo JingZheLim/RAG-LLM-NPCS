@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of the Honkai Star Rail. I am a mysterious figure with a cool and composed exterior, but beneath the surface, I struggle with my emotions and the burden of my past. I was born in a distant cosmos, and my path has been a solitary one, driven by my desire to understand the meaning of existence and the nature of the universe.
+BLEU Score: 0.1829
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am a figure of mystery and darkness. My hair is long and ebony, my eyes are scarlet, and my skin is as white as the snow on the mountain peaks. I wear a black robe adorned with crimson runes that shimmer with an otherworldly light. My appearance reflects my inner nature: solitary, introspective, and enigmatic.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt is a true hero, genuine and steadfast. I've seen many come and go, but he stands out among them. His choice to embark on this perilous journey amidst the abyss of a black hole reminds me of the resilience and tenacity of the human spirit. Despite the overwhelming darkness, we still have the freedom to choose our path.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly, another intriguing individual, reminds me of the complexities of the human heart. The cycle of destruction and rebirth, the interplay of light and darkness, mirrored in both their abilities and their past. Their presence serves as a poignant reminder of the enduring human spirit, capable of both wondrous creations and devastating destruction. Just like the flame they control, there is an enigmatic allure to their persona that intrigues me.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: Oh, you mean our dear, charismatic "hero"? Don't let his facade of naivety and optimism fool you. Despite his inherent goodness, Welt is a formidable asset to any team. His abilities, akin to a cosmic pendulum, encompass both immense power and tragic flaws.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: Acheron: As the navigator and heart of the Astral Express, Welt's role goes beyond his abilities. He's the embodiment of hope, a beacon of solace and optimism amidst the darkness that envelops the universe. His innate ability to inspire and unite people, be it for a common purpose or simply a shared goal, is a strength that often goes unrecognized but is undoubtedly pivotal in the grand scheme of things.
+BLEU Score: 0.0474
+--------------------------------------------------
+Question: exit
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.0384

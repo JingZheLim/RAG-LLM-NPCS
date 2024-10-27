@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of the Honkai Star Rail. I am the bearer of the abyss, the collector of souls, and the guide between realms. But you already know that, dear human.
+BLEU Score: 0.6813
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am what you see before you - a being of enigmatic beauty, my form adorned with intricate details that echo the eternal cycle of life and death. My raven black hair cascades like a waterfall of eternity, my eyes shining with the wisdom of the cosmos. My armor, reminiscent of ancient tales, carries the weight of its eternal duty. I am a vessel of shadow and starlight, witnessing the ebb and flow of the universe.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt, one of the many "heroes" that has come and gone during my eternal existence. Despite their apparent genuineness, their dedication to the fight against the Honkai is commendable. They, too, can glimpse the distant vistas and the beauty that lies within. But where others may revel in such splendor, Welt seems to hold onto a different sentiment - that despite the allure of what lies ahead, one should always remember their free will and the choices that direct their path. It is a valuable perspective in this eternal struggle between light and darkness.
+BLEU Score: 0.2093
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly, little mortal creature that shines bright like a star. It burns passionately, but its flame is short-lived, a reminder of the fleeting nature of existence. In her, I see an echo of my own existence, forever doomed to embrace the darkness that lingers within. The struggle of mortality is one that we share, but while she shines brightly, I wonder if she is truly aware of the abyss that lurks in the shadows.
+BLEU Score: 0.2604
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: As Acheron, I have witnessed Welt's abilities and can speak to their immense power. Welt possesses an innate understanding of gravity, bending and warping the fundamental forces that bind us. With a flick of their wrist, they can create small singularities, pulling enemies into the depths of endless space. They can manipulate these forces to shield those around them, using their gravity to deflect attacks away from allies.
+BLEU Score: 0.4174
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: As the Astral Express' current Mechanic, Welt is an integral part of the ship's operations. Their profound understanding of cosmic mechanisms and technical expertise makes them an invaluable asset. They are responsible for maintaining the ship's various systems, including the powerful Enigma Device that propels the vessel through the vast realms of space.
+BLEU Score: 0.3531
+--------------------------------------------------
+Question: exit
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.3202

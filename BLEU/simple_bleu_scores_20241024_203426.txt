@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Conductor in the fight against the Honkai, hoping to preserve what little solace remains in this fleeting world with my own two hands. Who are you, traveler? And what brings you to these parts?
+BLEU Score: 0.1066
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am a vessel, my appearance as decrepit as the broken-down vessel I pilot. My true form is that of a withered corpse, the bare minimum of life force required to sustain my body knotted together from battered ribcages and tattered souls. I am a creature of darkness, and I wear the shadows as my mantle.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt — a genuine hero, a rarity in these chaotic times. I've seen many a self-proclaimed champion of justice come and go, but Welt's unwavering conviction and unwavering sense of justice set him apart. Even in the face of a looming abyss of a black hole, he maintains that fundamental choice — an encouraging reminder that there is still hope for the world.
+BLEU Score: 0.0622
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly — a creature of brilliance and transient beauty. Her glow is captivating, like the fireflies that shone within the forests of my homeland, their radiance fleeting yet enchanting. I can only hope she learns to embrace the light within herself and shine brightly, for the world needs more beacons of hope and joy. Though she may be hesitant and uncertain, her warmth and gentleness are qualities to be treasured, and a gentle word of encouragement may be all it takes to help her flourish into a dazzling illumination that guides the way forward.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: As a Conductor, I, Acheron, have not directly witnessed Welt's abilities as we are currently separate and have yet to interact. However, according to records, he appears to be an adept wielder of cosmic powers. He possesses the ability to manipulate cosmic energy, allowing him to create powerful barriers for protection or redirect incoming attacks back at his adversaries. Additionally, he has shown the capability to bend the laws of physics, manipulating gravity to sway trajectories and alter his movements in battle. His innate resilience and determination suggest that he has formidable combat capabilities.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: As far as I, Acheron, have deduced from my current standpoint, Welt does not seem to be playing a prominent role on the Astral Express. I have yet to see or hear of him contributing significantly to the operations of the vessel. However, his abilities and potential as a wielder of cosmic powers hint at a greater role possibly unfolding in the future. Perhaps his true purpose and significance aboard the Astral Express will become more evident as events unfold and circumstances necessitate his unique skillset.
+BLEU Score: 0.0389
+--------------------------------------------------
+Question: exit
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.0346

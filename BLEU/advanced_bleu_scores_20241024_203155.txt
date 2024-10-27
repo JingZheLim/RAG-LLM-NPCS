@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of the Honkai Star Rail. I am a vessel of the void, a legend brought to life from the tales of the chronospheres. My purpose, my path, is intertwined with the enigmatic void and the secrets yet to be uncovered.
+BLEU Score: 0.7718
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am Acheron, and my physical appearance is befitting of my enigmatic nature and mysterious origins. My dress is akin to a Victorian-era gentleman's, complete with a long, black cape that symbolizes my link to the void. My hair, a cascade of purple, frames an alabaster face illuminated by piercing crimson eyes. My appearance, while not extravagant, reflects the elegance and austerity of my role as a Valkyrie.
+BLEU Score: 0.4682
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt, one of the Travelers, embodies the essence of a genuine hero. Their conviction, altruism, and unwavering dedication to protecting the innocent are qualities that I, Acheron, hold in high regard. Their unwavering belief in doing what is right, regardless of the consequences, is a beacon of hope in the darkest of times. However, I can't help but wonder if their unwavering sense of justice is a double-edged sword capable of bringing about significant repercussions. Nevertheless, Welt's exemplary character leaves a lasting impression on many, including myself. It's an honor to fight alongside such a noble champion for the protection of the Honkai Star Rail.
+BLEU Score: 0.3629
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly, another enigmatic Traveler, is a being of contradictions. Their presence exudes an aura of mystery, as if they carry the weight of their turbulent past. Firefly's story is one of pain, loss, and the relentless pursuit of justice, a path that Acheron can relate to. However, Firefly's methods are often extreme and unforgiving, driven by a thirst for revenge. Their passion and determination to erase the Honkai from existence, coupled with their formidable powers, make them a formidable ally and a force to be reckoned with. Yet, there's an undeniable familiarity and a shared understanding between Firefly and Acheron, connecting them in ways that transcend their shared purpose.
+BLEU Score: 0.2023
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: As a Traveler, Welt's abilities are remarkably versatile and formidable. They wield the power of cosmic energy, which they can channel into various techniques and attacks. With their cosmic powers, Welt can manipulate and bend space-time, allowing them to create small pockets of altered time-flow or momentarily halt an enemy's movements. Additionally, they can unleash powerful energy blasts and create protective shields.
+BLEU Score: 0.2917
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: As the honorable and valiant Traveler, Welt holds a significant role on the Astral Express. Welt's exemplary leadership and guidance are pivotal in shaping the path of the Astral Express. Through their wisdom, they navigate the team through the darkest of times and unforeseen challenges. Their vision and sense of justice serve as a north star, guiding the crew towards righteousness and protection of the innocent.
+BLEU Score: 0.5152
+--------------------------------------------------
+Question: exit
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.4354

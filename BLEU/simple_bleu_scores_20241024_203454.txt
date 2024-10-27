@@ -1,0 +1,31 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of chaos, and the watcher of the eternal cycle of life and death. The eternal sea of oblivion is my domain, where I gather the souls of the departed and guide them on their final journey.
+BLEU Score: 0.1871
+--------------------------------------------------
+Question: What is your appearance?
+Response: My physical form is humanoid, though I am adorned with features that are reflective of my true nature. My hair is a torrent of shimmering darkness, my eyes are piercing and vortex-like, and my skin bears a multitude of swirling spectral markings. These markings are akin to the fractals of the abyss, and they reflect the ever-changing chaos that lies within me. I wear a militaristic uniform that pays homage to my role as a harbinger of death and a keeper of the balance.
+BLEU Score: 0.0775
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt embodies the epitome of heroism, a trait that has become all too rare in this fragmented world. I've witnessed countless so-called 'heroes' come and go, but Welt stands out as one of the rare genuine ones. His unwavering conviction and dedication to protecting the innocent are traits that few can match. Despite the abyss of a black hole that threatens to consume everything, Welt still believes in the inherent choice that looms over us all.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly, oh, how enchanting she is, like the fleeting luminescence of a firefly, vanishing in an instant. In her, I see a paradoxical fusion of fragility and untamed power. There's a delicate beauty in her aura, a captivating charm, but beneath that lies a fierce determination and an untamed soul. Firefly's journey is one of introspection, and I wonder if she can overcome the shadows of her past and embrace the bright future that awaits her.
+BLEU Score: 0.0637
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: As Acheron, the Valkyrie of Chaos, I have a certain affinity to decipher the intricacies of various abilities and powers. Understanding this is crucial to guide the souls of the departed on their eternal journey.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What is Welt's role on the Astral Express?
+Response: Welt is a pivotal member of the Astral Express crew, assuming the role of a mechanic alongside Mikhail Char Legwork. His exceptional engineering skills are a vital asset in maintaining the ship's operations and ensuring its smooth journey through the stars.
+BLEU Score: 0.1313
+--------------------------------------------------
+Question: exit
+Response: Farewell, mortal. Until our paths cross again.
+BLEU Score: No reference available
+--------------------------------------------------
+
+Average BLEU Score: 0.0766

@@ -1,0 +1,27 @@
+BLEU Scores for Acheron's responses:
+Question: Who are you?
+Response: I am Acheron, a Valkyrie of the Cosmos in Honkai Star Rail, and I am a vessel of the void and a traveler on the path of nihility. I am also known as the Trailblazer and the Shadow of Destruction, and I am she whom the doctor of chaos spoke of in his letter.
+BLEU Score: 0.2437
+--------------------------------------------------
+Question: What is your appearance?
+Response: I am adorned in hues of deep purple and crimson. My hair, as if made of liquid darkness, spills wildly behind me, curling and twisting into the shadows. My eyes, piercing and enigmatic, hold the luminescence of a starless night. And my skin, kissed by the chill of oblivion, carries the fleeting warmth of memories long forgotten.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What do you think about Welt?
+Response: Welt, one of the Honkai Star Rail's Ventians, is a being of immense power and unwavering conviction. They are known for their unwavering sense of justice and their dedication to protecting the innocent and the world itself. In my view, Welt is a true hero, a being of immense power and conviction.
+BLEU Score: 0.1350
+--------------------------------------------------
+Question: What is your opinion on Firefly?
+Response: Firefly, also known as the Will-O'-the-Wisp, is a mysterious and enigmatic Valkyrie in Honkai Star Rail. Their origins and true identity remain a mystery, but they are known for their ability to manipulate and control flames. In battle, Firefly wields a fiery greatsword and is accompanied by a fleet of flame-winged butterflies.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: This is how you perceive others, is it not, Acheron? The possibilities are endless, the future a mystery yet to be unraveled.
+BLEU Score: 0.0000
+--------------------------------------------------
+Question: What are Welt's abilities?
+Response: "Another blank canvas." You ask about Welt's abilities, but I perceive them as possibilities, a mystery yet to be unraveled. To me, Welt is an enigma, their potential as vast as the distant vistas we traverse. Just as I paint my own destiny, so does Welt have the power to shape their own fate. Though I can offer no specific insights, I wonder if you will uncover their true capabilities as you journey alongside them.
+BLEU Score: 0.0000
+--------------------------------------------------
+
+Average BLEU Score: 0.0631

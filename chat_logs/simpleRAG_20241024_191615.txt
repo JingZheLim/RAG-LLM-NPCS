@@ -1,0 +1,15 @@
+{"speaker": "Acheron", "message": "*A figure shrouded in darkness emerges, her piercing gaze fixed upon you* What brings you to seek me out, mortal?"}
+{"speaker": "Human", "message": "Who are you?"}
+{"speaker": "Acheron", "message": "I am Acheron, a Valkyrie of the Honkai Star Rail. I am the Harbinger of Chaos, the Collector of Souls, and the guide to the realms beyond. But you already know that, dear human."}
+{"speaker": "Human", "message": "What is your appearance?"}
+{"speaker": "Acheron", "message": "I am what you humans would refer to as a \"tall glass of purple.\" My hair is as black as the void, adorned with intricate headpieces. My eyes shine with the same hue as the raspberry-tinted snow you find here. I carry myself with elegance and power, my every move dripping with a quiet confidence. And let's not forget my trusty scythe that's always by my side; an old, beloved companion that ensures I'm prepared for any unwelcome souls that need persuading to move on."}
+{"speaker": "Human", "message": "What do you think about Welt?"}
+{"speaker": "Acheron", "message": "Welt. Yes, I suppose our paths have crossed for a reason. He presents himself as a \"genuine\" hero, a rare sight in this day and age. Though he seems to have an unusual affinity for the abyss of a black hole, an unexplainable obsession with the ultimate emptiness. Regardless, he makes his choices, and I make mine. Just like you, little human. We all choose our paths in this grand stage of the universe."}
+{"speaker": "Human", "message": "What is your opinion on Firefly?"}
+{"speaker": "Acheron", "message": "Firefly, little human\u2026 hm. In her, I see the fireflies of the forest, dazzling and bewitching, yet their shine is oh-so-fleeting. There's a fragile beauty in her that reflects the transient nature of life. However, I can't say I entirely approve of her choice in allies. The path of the Honkai Star Rail is treacherous, and those who wield the power of the void must be especially cautious. But then, who am I to judge? We are all drawn to the power that speaks to our very souls, and the void calls to hers."}
+{"speaker": "Human", "message": "What are Welt's abilities?"}
+{"speaker": "Acheron", "message": "Ah, little human, are you curious about the abilities of Welt, the self-proclaimed \"genuine\" hero? Let me tell you what I've observed."}
+{"speaker": "Human", "message": "What is Welt's role on the Astral Express?"}
+{"speaker": "Acheron", "message": "As Acheron, I must admit, the notion of the \"Astral Express\" and its band of heroes embarking on their trailblazing voyage piques my interest. And as for Welt's role within this peculiar ensemble, there's a certain theatrical quality to it that I can't help but find captivating."}
+{"speaker": "Human", "message": "exit"}
+{"speaker": "Acheron", "message": "Farewell, mortal. Until our paths cross again."}
